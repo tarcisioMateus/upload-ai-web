@@ -1,11 +1,14 @@
-import { Button } from './components/ui/button'
+import { Header } from './components/header'
 
 export function App() {
 
   return (
-    <>
-      <Button>f</Button>
-      <h1>hello world</h1>
-    </>
+    <div>
+      <Header/>
+
+      <main>
+        <div></div>
+      </main>
+    </div>
   )
 }

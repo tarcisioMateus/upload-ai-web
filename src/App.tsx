@@ -7,7 +7,15 @@ export function App() {
       <Header/>
 
       <main>
-        <div></div>
+        <div>
+          <div>
+            
+          </div>
+        </div>
+
+        <aside>
+
+        </aside>
       </main>
     </div>
   )
